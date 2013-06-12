@@ -29,6 +29,7 @@ Packages
 * [Package Control](https://github.com/wbond/sublime_package_control) - Full-featured package manager
 * [Prefixr](https://github.com/wbond/sublime_prefixr) - Runs CSS through Prefixr.com API
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Adds additional functionality to the sidebar
+* [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - Highlight syntax errors
 
 
