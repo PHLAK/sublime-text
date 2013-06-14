@@ -6,8 +6,8 @@ A list of my Sublime Text packages, settings, and key bindings.
 ![Sublime Text 2 Screenshot](https://raw.github.com/PHLAK/sublime-text/master/screenshot.png)
 
 
-Theme, Colour Scheme, & Font
-----------------------------
+Theme, Color Scheme & Font
+--------------------------
 
 * [Soda Dark](https://github.com/buymeasoda/soda-theme/)
 * [Base 16 Tomorrow Dark](https://github.com/chriskempson/base16-textmate)
