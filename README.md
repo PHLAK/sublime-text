@@ -9,36 +9,36 @@ A list of my Sublime Text packages, settings, and key bindings.
 Theme, Color Scheme & Font
 --------------------------
 
-* [Soda Dark](https://github.com/buymeasoda/soda-theme/)
-* [Base 16 Tomorrow Dark](https://github.com/chriskempson/base16-textmate)
-* [Ubuntu Mono](http://font.ubuntu.com/)
+  * [Soda Dark](https://github.com/buymeasoda/soda-theme/)
+  * [Base 16 Tomorrow Dark](https://github.com/chriskempson/base16-textmate)
+  * [Ubuntu Mono](http://font.ubuntu.com/)
 
 
 Packages
 --------
 
-* [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile) - File creation plugin
-* [Alignment](https://github.com/wbond/sublime_alignment) - Easy alignment of multiple and multi-line selections
-* [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) - Bracket and tag highlighter
-* [DocBlockr](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments
-* [Emmet](https://github.com/sergeche/emmet-sublime) - HTML/CSS workflow enhancement suite
-* [Gist](https://github.com/condemil/Gist) - Create and edit Gists from within Sublime Text
-* [Git](https://github.com/kemayo/sublime-text-2-git) - Git integration for Subblime Text
-* [GitGutter](https://github.com/jisaacks/GitGutter) - Adds git diff icons to the gutter
-* [Nettuts+ Fetch](https://github.com/weslly/Nettuts-Fetch) - Fetch remote files and zip packages
-* [Package Control](https://github.com/wbond/sublime_package_control) - Full-featured package manager
-* [Prefixr](https://github.com/wbond/sublime_prefixr) - Runs CSS through Prefixr.com API
-* [Sass](https://github.com/nathos/sass-textmate-bundle) - Sass support for Sublime Text 2
-* [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Adds additional functionality to the sidebar
-* [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
-* [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - Highlight syntax errors
+  * [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile) - File creation plugin
+  * [Alignment](https://github.com/wbond/sublime_alignment) - Easy alignment of multiple and multi-line selections
+  * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) - Bracket and tag highlighter
+  * [DocBlockr](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments
+  * [Emmet](https://github.com/sergeche/emmet-sublime) - HTML/CSS workflow enhancement suite
+  * [Gist](https://github.com/condemil/Gist) - Create and edit Gists from within Sublime Text
+  * [Git](https://github.com/kemayo/sublime-text-2-git) - Git integration for Subblime Text
+  * [GitGutter](https://github.com/jisaacks/GitGutter) - Adds git diff icons to the gutter
+  * [Nettuts+ Fetch](https://github.com/weslly/Nettuts-Fetch) - Fetch remote files and zip packages
+  * [Package Control](https://github.com/wbond/sublime_package_control) - Full-featured package manager
+  * [Prefixr](https://github.com/wbond/sublime_prefixr) - Runs CSS through Prefixr.com API
+  * [Sass](https://github.com/nathos/sass-textmate-bundle) - Sass support for Sublime Text 2
+  * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Adds additional functionality to the sidebar
+  * [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
+  * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - Highlight syntax errors
 
 
 Syntaxes
 --------
 
-* [HTML5](https://github.com/mrmartineau/HTML5) - HTML5 bundle for Sublime Text 2
-* [jQuery](https://github.com/SublimeText/jQuery) - jQuery package bundle
+  * [HTML5](https://github.com/mrmartineau/HTML5) - HTML5 bundle for Sublime Text 2
+  * [jQuery](https://github.com/SublimeText/jQuery) - jQuery package bundle
 
 
 Settings
