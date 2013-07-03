@@ -28,7 +28,6 @@ Packages
   * [Nettuts+ Fetch](https://github.com/weslly/Nettuts-Fetch) - Fetch remote files and zip packages
   * [Package Control](https://github.com/wbond/sublime_package_control) - Full-featured package manager
   * [Prefixr](https://github.com/wbond/sublime_prefixr) - Runs CSS through Prefixr.com API
-  * [Sass](https://github.com/nathos/sass-textmate-bundle) - Sass support for Sublime Text 2
   * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Adds additional functionality to the sidebar
   * [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
   * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - Highlight syntax errors
@@ -39,6 +38,7 @@ Syntaxes
 
   * [HTML5](https://github.com/mrmartineau/HTML5) - HTML5 bundle for Sublime Text 2
   * [jQuery](https://github.com/SublimeText/jQuery) - jQuery package bundle
+  * [Sass](https://github.com/nathos/sass-textmate-bundle) - Sass support for Sublime Text 2
 
 
 Settings
