@@ -83,3 +83,10 @@ Key Bindings
     { "keys": ["ctrl+shift+alt+n"], "command": "advanced_new_file", "args": {"is_python": true}}
 ]
 ```
+
+PHP.sublime-settings
+--------------------
+```js
+{
+    "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+}
