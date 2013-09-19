@@ -1,4 +1,4 @@
-Sublime Text Setup
+cdSublime Text Setup
 ==================
 
 A list of my Sublime Text packages, settings, and key bindings.
@@ -31,6 +31,7 @@ Packages
   * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Adds additional functionality to the sidebar
   * [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
   * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - Highlight syntax errors
+  * [SublimePrettyJson](https://github.com/dzhibas/SublimePrettyJson) - JSON prettifier
 
 
 Syntaxes
