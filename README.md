@@ -1,4 +1,4 @@
-cdSublime Text Setup
+Sublime Text Setup
 ==================
 
 A list of my Sublime Text packages, settings, and key bindings.
