@@ -31,7 +31,7 @@ Packages
   * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Adds additional functionality to the sidebar
   * [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
   * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - Highlight syntax errors
-  * [SublimePrettyJson](https://github.com/dzhibas/SublimePrettyJson) - JSON prettifier
+  * [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson) - JSON prettifier
 
 
 Syntaxes
@@ -39,7 +39,6 @@ Syntaxes
 
   * [HTML5](https://github.com/mrmartineau/HTML5) - HTML5 bundle for Sublime Text 2
   * [jQuery](https://github.com/SublimeText/jQuery) - jQuery package bundle
-  * [Sass](https://github.com/nathos/sass-textmate-bundle) - Sass support for Sublime Text 2
 
 
 Settings
