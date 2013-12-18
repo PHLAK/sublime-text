@@ -9,8 +9,8 @@ A list of my Sublime Text packages, settings, and key bindings.
 Theme, Color Scheme & Font
 --------------------------
 
-  * [Soda Dark](https://github.com/buymeasoda/soda-theme/)
-  * [Base 16 Tomorrow Dark](https://github.com/chriskempson/base16-textmate)
+  * [Theme - Soda](https://github.com/buymeasoda/soda-theme/) (Soda Dark)
+  * [Base16 Color Schemes](https://github.com/chriskempson/base16-textmate) (Base 16 Tomorrow Dark)
   * [Ubuntu Mono](http://font.ubuntu.com/)
 
 
@@ -23,15 +23,13 @@ Packages
   * [DocBlockr](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments
   * [Emmet](https://github.com/sergeche/emmet-sublime) - HTML/CSS workflow enhancement suite
   * [Gist](https://github.com/condemil/Gist) - Create and edit Gists from within Sublime Text
-  * [Git](https://github.com/kemayo/sublime-text-2-git) - Git integration for Subblime Text
   * [GitGutter](https://github.com/jisaacks/GitGutter) - Adds git diff icons to the gutter
   * [Nettuts+ Fetch](https://github.com/weslly/Nettuts-Fetch) - Fetch remote files and zip packages
   * [Package Control](https://github.com/wbond/sublime_package_control) - Full-featured package manager
-  * [Prefixr](https://github.com/wbond/sublime_prefixr) - Runs CSS through Prefixr.com API
+  * [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson) - JSON prettifier
   * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Adds additional functionality to the sidebar
   * [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
   * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - Highlight syntax errors
-  * [SublimePrettyJson](https://github.com/dzhibas/SublimePrettyJson) - JSON prettifier
 
 
 Syntaxes
@@ -52,7 +50,7 @@ Settings
     "drag_text": false,
     "draw_minimap_border": true,
     "font_face": "Ubuntu Mono",
-    "font_size": 13,
+    "font_size": 12,
     "highlight_line": true,
     "highlight_modified_tabs": true,
     "ignored_packages":
