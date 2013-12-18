@@ -1,4 +1,4 @@
-cdSublime Text Setup
+Sublime Text Setup
 ==================
 
 A list of my Sublime Text packages, settings, and key bindings.
@@ -37,7 +37,6 @@ Syntaxes
 
   * [HTML5](https://github.com/mrmartineau/HTML5) - HTML5 bundle for Sublime Text 2
   * [jQuery](https://github.com/SublimeText/jQuery) - jQuery package bundle
-  * [Sass](https://github.com/nathos/sass-textmate-bundle) - Sass support for Sublime Text 2
 
 
 Settings
@@ -71,6 +70,7 @@ Settings
 }
 ```
 
+
 Key Bindings
 ------------
 ```js
@@ -82,6 +82,7 @@ Key Bindings
     { "keys": ["ctrl+shift+alt+n"], "command": "advanced_new_file", "args": {"is_python": true}}
 ]
 ```
+
 
 PHP.sublime-settings
 --------------------
