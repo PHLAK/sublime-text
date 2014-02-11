@@ -3,7 +3,7 @@ Sublime Text Setup
 
 A list of my Sublime Text packages, settings, and key bindings.
 
-![Sublime Text 2 Screenshot](https://raw.github.com/PHLAK/sublime-text/master/screenshot.png)
+![Sublime Text 3 Screenshot](https://raw.github.com/PHLAK/sublime-text/master/screenshot.png)
 
 
 Theme, Color Scheme & Font
@@ -35,7 +35,7 @@ Packages
 Syntaxes
 --------
 
-  * [HTML5](https://github.com/mrmartineau/HTML5) - HTML5 bundle for Sublime Text 2
+  * [HTML5](https://github.com/mrmartineau/HTML5) - HTML5 bundle for Sublime Text 3
   * [jQuery](https://github.com/SublimeText/jQuery) - jQuery package bundle
 
 
@@ -44,10 +44,9 @@ Settings
 ```js
 {
     "close_windows_when_empty": true,
-    "color_scheme": "Packages/Base16 Color Schemes/base16-tomorrow.dark.tmTheme",
+    "color_scheme": "Packages/User/base16-tomorrow.dark (SL).tmTheme",
     "default_line_ending": "system",
     "drag_text": false,
-    "draw_minimap_border": true,
     "font_face": "Ubuntu Mono",
     "font_size": 12,
     "highlight_line": true,
@@ -63,7 +62,7 @@ Settings
     ],
     "shift_tab_unindent": true,
     "tab_size": 4,
-    "theme": "Soda Dark.sublime-theme",
+    "theme": "Soda Dark 3.sublime-theme",
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
     "word_wrap": false
