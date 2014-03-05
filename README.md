@@ -43,7 +43,8 @@ Settings
 --------
 ```js
 {
-    "close_windows_when_empty": true,
+    "always_show_minimap_viewport": true,
+    "auto_complete_commit_on_tab": true,
     "color_scheme": "Packages/User/base16-tomorrow.dark (SL).tmTheme",
     "default_line_ending": "system",
     "drag_text": false,
