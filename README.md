@@ -24,7 +24,6 @@ Packages
   * [Emmet](https://github.com/sergeche/emmet-sublime) - HTML/CSS workflow enhancement suite
   * [Gist](https://github.com/condemil/Gist) - Create and edit Gists from within Sublime Text
   * [GitGutter](https://github.com/jisaacks/GitGutter) - Adds git diff icons to the gutter
-  * [Nettuts+ Fetch](https://github.com/weslly/Nettuts-Fetch) - Fetch remote files and zip packages
   * [Package Control](https://github.com/wbond/sublime_package_control) - Full-featured package manager
   * [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson) - JSON prettifier
   * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Adds additional functionality to the sidebar
