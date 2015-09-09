@@ -83,6 +83,18 @@ Key Bindings
 ]
 ```
 
+AdvancedNewFile.sublime-settings
+--------------------------------
+```js
+{
+    "completion_type": "nix",
+    "folder_permissions": "775",
+    "file_permissions": "664",
+    "warn_overwrite_on_move": true,
+    "cursor_before_extension": true
+}
+```
+
 
 PHP.sublime-settings
 --------------------
@@ -90,3 +102,4 @@ PHP.sublime-settings
 {
     "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
 }
+```
