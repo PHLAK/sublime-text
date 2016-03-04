@@ -38,6 +38,7 @@ Syntaxes
   * [HTML5](https://github.com/mrmartineau/HTML5) - HTML5 bundle for Sublime Text 3
   * [jQuery](https://github.com/SublimeText/jQuery) - jQuery package bundle
   * [Sass](https://github.com/nathos/sass-textmate-bundle) - Sass support for TextMate & Sublime Text (2 & 3)
+  * [Laravel Blade](https://github.com/Medalink/laravel-blade) - Syntax definitions for the Laravel 4 & 5 Blade engine
 
 
 Settings
