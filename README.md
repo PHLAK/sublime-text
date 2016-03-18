@@ -62,6 +62,7 @@ Settings
     "overlay_scroll_bars": "system",
     "rulers":
     [
+        80,
         100
     ],
     "shift_tab_unindent": true,
