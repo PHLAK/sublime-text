@@ -109,3 +109,11 @@ PHP.sublime-settings
     "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
 }
 ```
+
+Sass.sublime-settings
+---------------------
+```js
+{
+    "word_separators": "/\\()\"':,;<>~!%^&*|+=[]{}`~?",
+}
+```
