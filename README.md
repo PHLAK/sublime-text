@@ -60,8 +60,8 @@ Settings
     [
         "Vintage"
     ],
-    "line_padding_bottom": 3,
-    "line_padding_top": 3,
+    "line_padding_bottom": 4,
+    "line_padding_top": 4,
     "overlay_scroll_bars": "system",
     "rulers":
     [
