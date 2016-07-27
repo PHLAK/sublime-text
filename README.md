@@ -25,6 +25,7 @@ Packages
   * [Gist](https://github.com/condemil/Gist) - Create and edit Gists from within Sublime Text
   * [GitGutter](https://github.com/jisaacks/GitGutter) - Adds git diff icons to the gutter
   * [Package Control](https://github.com/wbond/sublime_package_control) - Full-featured package manager
+  * [PHP Companion](https://github.com/erichard/SublimePHPCompanion) - Cool stuff for PHP 5.3+
   * [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson) - JSON prettifier
   * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Adds additional functionality to the sidebar
   * [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
@@ -86,7 +87,12 @@ Key Bindings
     { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 
     { "keys": ["ctrl+alt+n"], "command": "advanced_new_file"},
-    { "keys": ["ctrl+shift+alt+n"], "command": "advanced_new_file", "args": {"is_python": true}}
+    { "keys": ["ctrl+shift+alt+n"], "command": "advanced_new_file", "args": {"is_python": true}},
+    
+    { "keys": ["ctrl+alt+u"], "command": "find_use" },
+    { "keys": ["ctrl+alt+i"], "command": "import_namespace" },
+    { "keys": ["ctrl+alt+f"], "command": "expand_fqcn" },
+    { "keys": ["ctrl+alt+g"], "command": "implement" }
 ]
 ```
 
