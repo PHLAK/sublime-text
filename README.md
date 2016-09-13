@@ -48,35 +48,38 @@ Settings
 --------
 ```js
 {
-    "always_show_minimap_viewport": true,
-    "auto_complete_commit_on_tab": true,
-   	"bold_folder_labels": true,
-    "color_scheme": "Packages/User/base16-tomorrow.dark (SL).tmTheme",
-    "default_line_ending": "system",
-    "drag_text": false,
-    "font_face": "Ubuntu Mono",
-    "font_size": 12,
-    "highlight_line": true,
-    "highlight_modified_tabs": true,
-    "ignored_packages":
-    [
-        "Vintage"
-    ],
-    "line_padding_bottom": 5,
-    "line_padding_top": 5,
-    "overlay_scroll_bars": "system",
-    "rulers":
-    [
-        80,
-        100
-    ],
-    "shift_tab_unindent": true,
-    "tab_size": 4,
-    "theme": "Soda Dark 3.sublime-theme",
-    "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true,
-    "word_wrap": false
+	"always_show_minimap_viewport": true,
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/base16-tomorrow-night (SL).tmTheme",
+	"default_line_ending": "system",
+	"drag_text": false,
+	"font_face": "Ubuntu Mono",
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"overlay_scroll_bars": "system",
+	"rulers":
+	[
+		80,
+		100,
+		120
+	],
+	"shift_tab_unindent": true,
+	"tab_size": 4,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
 }
+
+
 ```
 
 
