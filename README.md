@@ -50,6 +50,7 @@ Settings
 {
     "always_show_minimap_viewport": true,
     "auto_complete_commit_on_tab": true,
+   	"bold_folder_labels": true,
     "color_scheme": "Packages/User/base16-tomorrow.dark (SL).tmTheme",
     "default_line_ending": "system",
     "drag_text": false,
