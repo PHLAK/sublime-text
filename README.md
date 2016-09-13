@@ -124,3 +124,8 @@ Sass.sublime-settings
     "word_separators": "/\\()\"':,;<>~!%^&*|+=[]{}`~?",
 }
 ```
+
+Fix for HiDPI monitors
+----------------------
+
+Place [https://raw.githubusercontent.com/PHLAK/sublime-text/master/Soda%20Dark%203.sublime-theme](Soda Dark 3.sublime-theme) in your `~/.config/sublime-text-3/Packages/User` folder.
