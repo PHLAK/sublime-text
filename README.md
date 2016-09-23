@@ -9,8 +9,8 @@ A list of my Sublime Text packages, settings, and key bindings.
 Theme, Color Scheme & Font
 --------------------------
 
-  * [Theme - Soda](https://github.com/buymeasoda/soda-theme/) (Soda Dark)
-  * [Base16 Color Schemes](https://github.com/chriskempson/base16-textmate) (Base 16 Tomorrow Dark)
+  * [Theme - Spacegray](https://github.com/kkga/spacegray) (Eighties)
+  * [Base16 Color Schemes](https://github.com/chriskempson/base16-textmate) (Base 16 Eighties - Included with Spacegray theme)
   * [Ubuntu Mono](http://font.ubuntu.com/)
 
 
@@ -51,7 +51,7 @@ Settings
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/base16-tomorrow-night (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
 	"default_line_ending": "system",
 	"drag_text": false,
 	"font_face": "Ubuntu Mono",
@@ -73,11 +73,12 @@ Settings
 	],
 	"shift_tab_unindent": true,
 	"tab_size": 4,
-	"theme": "Soda Dark 3.sublime-theme",
+	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
 }
+
 
 
 ```
@@ -128,8 +129,3 @@ Sass.sublime-settings
     "word_separators": "/\\()\"':,;<>~!%^&*|+=[]{}`~?",
 }
 ```
-
-Fix for HiDPI monitors
-----------------------
-
-Place [Soda Dark 3.sublime-theme](Soda Dark 3.sublime-theme) in your `~/.config/sublime-text-3/Packages/User` folder.
