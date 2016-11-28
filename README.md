@@ -73,6 +73,7 @@ Settings
 		120
 	],
 	"shift_tab_unindent": true,
+	"spacegray_fileicons": true,
 	"tab_size": 4,
 	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true,
