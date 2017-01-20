@@ -70,7 +70,6 @@ Settings
 	"rulers":
 	[
 		80,
-		100,
 		120
 	],
 	"shift_tab_unindent": true,
