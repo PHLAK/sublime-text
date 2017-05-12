@@ -115,6 +115,17 @@ AdvancedNewFile.sublime-settings
 }
 ```
 
+Base File.sublime-settings (DocBlockr)
+--------------------------------------
+```js
+{
+   "jsdocs_align_tags": "shallow",
+   "jsdocs_return_description": true,
+   "jsdocs_spacer_between_sections": true,
+   "jsdocs_per_section_indent": true,
+}
+```
+
 
 PHP.sublime-settings
 --------------------
