@@ -96,10 +96,10 @@ Key Bindings
     { "keys": ["ctrl+alt+n"], "command": "advanced_new_file"},
     { "keys": ["ctrl+shift+alt+n"], "command": "advanced_new_file", "args": {"is_python": true}},
     
-    { "keys": ["ctrl+alt+u"], "command": "find_use" },
-    { "keys": ["ctrl+alt+i"], "command": "import_namespace" },
-    { "keys": ["ctrl+alt+f"], "command": "expand_fqcn" },
-    { "keys": ["ctrl+alt+g"], "command": "implement" }
+    { "keys": ["ctrl+insert"], "command": "import_namespace" },
+    { "keys": ["ctrl+shift+i"], "command": "find_use" },
+    { "keys": ["ctrl+alt+i"], "command": "implement" },
+    { "keys": ["ctrl+lagitt+f"], "command": "expand_fqcn" },
 ]
 ```
 
