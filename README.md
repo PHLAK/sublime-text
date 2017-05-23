@@ -28,7 +28,6 @@ Packages
   * [PHP Companion](https://github.com/erichard/SublimePHPCompanion) - Cool stuff for PHP 5.3+
   * [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson) - JSON prettifier
   * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Adds additional functionality to the sidebar
-  * [Sublime Bookmarks](https://github.com/bollu/sublimeBookmark) - A better bookmark system for SublimeText
   * [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
   * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - Highlight syntax errors
   * [SublimeLinter-php](https://github.com/SublimeLinter/SublimeLinter-php) - Highlight PHP syntax errors
