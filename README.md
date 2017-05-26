@@ -58,7 +58,7 @@ Settings
 	"drag_text": false,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Ubuntu Mono",
-	"font_size": 13,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
