@@ -31,6 +31,7 @@ Packages
   * [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
   * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - Highlight syntax errors
   * [SublimeLinter-php](https://github.com/SublimeLinter/SublimeLinter-php) - Highlight PHP syntax errors
+  * [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - Review todo (and other) comments within your code.
   * [WakaTime](https://github.com/wakatime/sublime-wakatime) - Automatic metrics, insights, and time tracking
 
 
@@ -102,6 +103,7 @@ Key Bindings
 ]
 ```
 
+
 AdvancedNewFile.sublime-settings
 --------------------------------
 ```js
@@ -113,6 +115,7 @@ AdvancedNewFile.sublime-settings
     "cursor_before_extension": true
 }
 ```
+
 
 Base File.sublime-settings (DocBlockr)
 --------------------------------------
@@ -126,6 +129,27 @@ Base File.sublime-settings (DocBlockr)
 ```
 
 
+TodoReview.sublime-settings
+--------------------------------------
+```js
+{
+    "patterns": {
+        "TODO": "TODO[\\s]*?:[\\s]*(?P<todo>.*)$",
+        "NOTE": "NOTE[\\s]*?:[\\s]*(?P<note>.*)$",
+        "FIXME": "FIX ?ME[\\s]*?:[\\s]*(?P<fixme>.*)$"
+    },
+    "patterns_weight": {
+    },
+    "exclude_folders": [
+        "*.git*",
+        "*vendor*"
+    ],
+    "render_include_folder": false,
+    "render_header_date": "%A %B %d, %Y at %I:%M %p"
+}
+```
+
+
 PHP.sublime-settings
 --------------------
 ```js
@@ -133,6 +157,7 @@ PHP.sublime-settings
     "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
 }
 ```
+
 
 Sass.sublime-settings
 ---------------------
