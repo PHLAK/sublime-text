@@ -9,8 +9,8 @@ A list of my Sublime Text packages, settings, and key bindings.
 Theme, Color Scheme & Font
 --------------------------
 
-  * [Theme - Spacegray](https://github.com/kkga/spacegray) (Eighties)
-  * [Base16 Color Schemes](https://github.com/chriskempson/base16-textmate) (Base 16 Eighties - Included with Spacegray theme)
+  * [Theme - Spacegray](https://github.com/kkga/spacegray)
+  * [Base16 Color Schemes](https://github.com/chriskempson/base16-textmate) (Base 16 Ocean - Included with Spacegray theme)
   * [Ubuntu Mono](http://font.ubuntu.com/)
 
 
