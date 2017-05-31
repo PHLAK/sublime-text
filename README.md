@@ -139,6 +139,9 @@ TodoReview.sublime-settings
         "FIXME": "FIX ?ME[\\s]*?:[\\s]*(?P<fixme>.*)$"
     },
     "patterns_weight": {
+    	"TODO": 0,
+        "FIXME": 5,
+        "NOTE": 10
     },
     "exclude_folders": [
         "*.git*",
