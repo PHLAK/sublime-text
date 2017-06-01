@@ -1,0 +1,18 @@
+{
+    "patterns": {
+        "TODO": "TODO[\\s]*?:[\\s]*(?P<todo>.*)$",
+        "NOTE": "NOTE[\\s]*?:[\\s]*(?P<note>.*)$",
+        "FIXME": "FIX ?ME[\\s]*?:[\\s]*(?P<fixme>.*)$"
+    },
+    "patterns_weight": {
+        "TODO": 0,
+        "FIXME": 5,
+        "NOTE": 10
+    },
+    "exclude_folders": [
+        "*.git*",
+        "*vendor*"
+    ],
+    "render_include_folder": false,
+    "render_header_date": "%A %B %d, %Y at %I:%M %p"
+}

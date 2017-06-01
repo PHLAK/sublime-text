@@ -1,0 +1,12 @@
+[
+    { "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+
+    { "keys": ["ctrl+alt+n"], "command": "advanced_new_file"},
+    { "keys": ["ctrl+shift+alt+n"], "command": "advanced_new_file", "args": {"is_python": true}},
+
+    { "keys": ["ctrl+insert"], "command": "import_namespace" },
+    { "keys": ["ctrl+shift+i"], "command": "find_use" },
+    { "keys": ["ctrl+alt+i"], "command": "implement" },
+    { "keys": ["ctrl+lagitt+f"], "command": "expand_fqcn" },
+]

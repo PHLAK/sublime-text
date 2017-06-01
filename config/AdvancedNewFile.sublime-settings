@@ -1,0 +1,7 @@
+{
+    "completion_type": "nix",
+    "folder_permissions": "775",
+    "file_permissions": "664",
+    "warn_overwrite_on_move": true,
+    "cursor_before_extension": true
+}
