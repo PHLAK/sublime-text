@@ -5,14 +5,12 @@ A list of my Sublime Text packages, settings, and key bindings.
 
 ![Sublime Text 3 Screenshot](https://raw.github.com/PHLAK/sublime-text/master/screenshot.png)
 
-
 Look & Feel
 -----------
 
   * **Theme:** [Spacegray](https://github.com/kkga/spacegray)
   * **Color Scheme**: [Base16 Ocean](https://github.com/chriskempson/base16-textmate) (Included with Spacegray theme)
   * **Font:** [Ubuntu Mono](http://font.ubuntu.com/)
-
 
 Packages
 --------
@@ -34,7 +32,6 @@ Packages
   * [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - Review todo (and other) comments within your code.
   * [WakaTime](https://github.com/wakatime/sublime-wakatime) - Automatic metrics, insights, and time tracking
 
-
 Syntaxes & Snippets
 -------------------
 
@@ -44,7 +41,6 @@ Syntaxes & Snippets
   * [Sass](https://github.com/nathos/sass-textmate-bundle) - Sass support for TextMate & Sublime Text (2 & 3)
   * [Laravel Blade](https://github.com/Medalink/laravel-blade) - Syntax definitions for the Laravel 4 & 5 Blade engine
   * [LaravelCollective HTML Form Snippets](https://github.com/PHLAK/laravelcollective-html-form-snippets) - Sublime Text 3 snippets for LaravelCollective/html form elements.
-
 
 Settings
 --------
