@@ -6,12 +6,12 @@ A list of my Sublime Text packages, settings, and key bindings.
 ![Sublime Text 3 Screenshot](https://raw.github.com/PHLAK/sublime-text/master/screenshot.png)
 
 
-Theme, Color Scheme & Font
---------------------------
+Look & Feel
+-----------
 
-  * [Theme - Spacegray](https://github.com/kkga/spacegray)
-  * [Base16 Color Schemes](https://github.com/chriskempson/base16-textmate) (Base 16 Ocean - Included with Spacegray theme)
-  * [Ubuntu Mono](http://font.ubuntu.com/)
+  * **Theme:** [Spacegray](https://github.com/kkga/spacegray)
+  * **Color Scheme**: [Base16 Ocean](https://github.com/chriskempson/base16-textmate) (Included with Spacegray theme)
+  * **Font:** [Ubuntu Mono](http://font.ubuntu.com/)
 
 
 Packages
