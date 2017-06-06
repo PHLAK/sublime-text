@@ -31,6 +31,7 @@ Packages
   * [SublimeLinter-php](https://github.com/SublimeLinter/SublimeLinter-php) - Highlight PHP syntax errors
   * [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - Review todo (and other) comments within your code.
   * [WakaTime](https://github.com/wakatime/sublime-wakatime) - Automatic metrics, insights, and time tracking
+  * [Xdebug Client](https://github.com/martomo/SublimeTextXdebug) - Xdebug debugger client integration for Sublime Text
 
 Syntaxes & Snippets
 -------------------
