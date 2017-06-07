@@ -32,7 +32,7 @@ def symlinkFile(path):
 def main():
     """Main execution function"""
 
-    if os.path.isdir(sublime_config_dir):
+    if not os.path.isdir(sublime_config_dir):
         print('No config directory found at ' + sublime_config_dir + ', is Sublime Text installed?')
         exit(1)
 
