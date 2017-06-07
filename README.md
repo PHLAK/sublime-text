@@ -46,4 +46,6 @@ Syntaxes & Snippets
 Settings
 --------
 
-Settings have been moved to individual files in the [config](config) directory.
+  * Settings can be found in the [config](config) directory.
+  * Key mappings can be found in the [keymaps](keymaps) directory.
+  * Snippets can be found in the [snippets](snippets) directory.
