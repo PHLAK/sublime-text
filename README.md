@@ -49,3 +49,21 @@ Settings
   * Settings can be found in the [config](config) directory.
   * Key mappings can be found in the [keymaps](keymaps) directory.
   * Snippets can be found in the [snippets](snippets) directory.
+
+Install
+-------
+
+  1. [Install Sublime Text 3](https://www.sublimetext.com/docs/3/linux_repositories.html)
+  2. Start Sublime Text and enable Package Control (`Tools -> Install Package Control...`)
+  3. Install packages listed above
+  4. Clone the project to your home folder:
+
+     ```
+     $ git clone git@github.com:PHLAK/sublime-text.git ~/.sublime-config
+     ```
+
+  5. Run the install.py script:
+
+     ```
+     $ ~/.sublime-config/install.py
+     ```
