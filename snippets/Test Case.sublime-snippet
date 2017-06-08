@@ -1,12 +1,14 @@
 <snippet>
     <content><![CDATA[
-public function test_it_${1}()
+public function test_it_${1:can_do_something}()
 {
-    ${2}
+    // Given ${2:we have something}
+
+    // When ${3:we do something}
+
+    // Then ${4:expect some result}
 }
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>test</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
 </snippet>

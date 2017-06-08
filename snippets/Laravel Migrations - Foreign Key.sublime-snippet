@@ -2,8 +2,6 @@
     <content><![CDATA[
 \$table->foreign('${1:column_name}')->references('${2:id}')->on('${3:table_name}');
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>foreign</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
 </snippet>
