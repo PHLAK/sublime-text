@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[\$this->${1};]]></conten>
+    <content><![CDATA[\$this->${1}]]></conten>
     <tabTrigger>this</tabTrigger>
     <scope>source.php</scope>
-    <description>$this-&gt;foo;</description>
+    <description>$this-&gt;foo</description>
 </snippet>
