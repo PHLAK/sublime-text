@@ -8,5 +8,7 @@
     { "keys": ["ctrl+insert"], "command": "import_namespace" },
     { "keys": ["ctrl+shift+i"], "command": "find_use" },
     { "keys": ["ctrl+alt+i"], "command": "implement" },
-    { "keys": ["ctrl+alt+f"], "command": "expand_fqcn" }
+    { "keys": ["ctrl+alt+f"], "command": "expand_fqcn" },
+
+    { "keys": ["ctrl+k", "ctrl+m"], "command": "toggle_menu" }
 ]
