@@ -29,6 +29,8 @@ Packages
   * [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
   * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - Highlight syntax errors
   * [SublimeLinter-php](https://github.com/SublimeLinter/SublimeLinter-php) - Highlight PHP syntax errors
+  * [SublimeLinter-phpcs](https://github.com/SublimeLinter/SublimeLinter-phpcs) - Highlight PHP coding standard issues
+  * [SublimeLinter-phpmd](https://github.com/SublimeLinter/SublimeLinter-phpmd) - Highlight potential PHP problems
   * [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - Review todo (and other) comments within your code.
   * [WakaTime](https://github.com/wakatime/sublime-wakatime) - Automatic metrics, insights, and time tracking
   * [Xdebug Client](https://github.com/martomo/SublimeTextXdebug) - Xdebug debugger client integration for Sublime Text
