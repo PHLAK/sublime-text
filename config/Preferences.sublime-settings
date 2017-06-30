@@ -15,8 +15,8 @@
     [
         "Vintage"
     ],
-    "line_padding_bottom": 5,
-    "line_padding_top": 5,
+    "line_padding_bottom": 7,
+    "line_padding_top": 7,
     "overlay_scroll_bars": "system",
     "rulers":
     [
