@@ -10,6 +10,8 @@
     { "keys": ["ctrl+alt+i"], "command": "implement" },
     { "keys": ["ctrl+alt+f"], "command": "expand_fqcn" },
 
+    {"keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project"},
+
     { "keys": ["ctrl+k", "ctrl+m"], "command": "toggle_menu" },
     { "keys": ["ctrl+f"], "command": "show_panel", "args": {"panel": "find", "reverse": false} }
 ]
