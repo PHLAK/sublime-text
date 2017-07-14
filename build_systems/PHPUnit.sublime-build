@@ -1,0 +1,4 @@
+{
+    "cmd": ["phpunit", "--stop-on-failure"],
+    "working_dir": "${project_path}",
+}
