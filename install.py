@@ -10,9 +10,10 @@ sublime_config_dir = os.path.join(os.path.expanduser('~'), '.config/sublime-text
 settings = glob(os.path.join(workingdir, 'config/*.sublime-*'))
 snippets = glob(os.path.join(workingdir, 'snippets/*.sublime-*'))
 keymaps = glob(os.path.join(workingdir, 'keymaps/*.sublime-*'))
+mousemaps = glob(os.path.join(workingdir, 'mousemaps/*.sublime-*'))
 build_systems = glob(os.path.join(workingdir, 'build_systems/*.sublime-*'))
 
-files = settings + snippets + keymaps + build_systems
+files = settings + snippets + keymaps + mousemaps + build_systems
 
 def symlinkFile(path):
     """Symlink a single config file"""
