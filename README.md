@@ -24,6 +24,7 @@ Packages
   * [GitGutter](https://github.com/jisaacks/GitGutter) - Adds git diff icons to the gutter
   * [Package Control](https://github.com/wbond/sublime_package_control) - Full-featured package manager
   * [PHP Companion](https://github.com/erichard/SublimePHPCompanion) - Cool stuff for PHP 5.3+
+  * [PHP CS Fixer](https://github.com/adael/SublimePhpCsFixer) - Run php-cs-fixer code formatter within Sublime Text
   * [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson) - JSON prettifier
   * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Adds additional functionality to the sidebar
   * [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
